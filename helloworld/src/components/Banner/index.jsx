@@ -10,7 +10,7 @@ export default function Banner() {
         <p className={styles.paragraph}>
           Welcome to my personal space! I'm Antônio Evaldo, Front-end instructor
           at Alura. Here I share a lot of knowledge, I hope you learn something
-          new :)
+          new.
         </p>
       </div>
 
