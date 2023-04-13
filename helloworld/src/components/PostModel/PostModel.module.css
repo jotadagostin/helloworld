@@ -1,0 +1,45 @@
+.postModelContainer {
+    color: var(--color-post-font);
+    position: relative;
+}
+
+.photoCover, .title {
+    height: 204px;
+}
+
+.photoCover {
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.3;
+    position: absolute;
+    top: 0;
+    z-index: -1;
+}
+
+.title {
+    font-family: var(--second-font);
+    padding: 0 7.5rem;
+    font-size: 4rem;
+    display: flex;
+    align-items: center;
+}
+
+.postModelContainer {
+    padding: 2.5rem 7.5rem 4.5rem;
+}
+
+@media screen and (max-width: 744px) {
+    .photoCover, .title {
+        height: 104px;
+    }
+
+    .title {
+        padding: 0 1rem;
+        font-size: 2rem;
+    }
+
+    .postModelContainer {
+        padding: 2rem 1rem 1.5rem;
+    }
+}
