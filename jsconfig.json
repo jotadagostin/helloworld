@@ -1,1 +1,6 @@
-// fill it after the code
+ {
+    "compilerOptions": {
+        "baseUrl": "src"
+    },
+    "include": ["src"]
+ }
