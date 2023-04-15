@@ -1,5 +1,5 @@
 import styles from "./NotFound.module.css";
-import erro404 from "assets/erro_404.pgn";
+import erro404 from "assets/erro_404.png";
 import MainButton from "components/MainButton";
 import { useNavigate } from "react-router-dom";
 
