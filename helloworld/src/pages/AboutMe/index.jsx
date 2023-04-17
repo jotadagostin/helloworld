@@ -31,7 +31,10 @@ export default function AboutMe() {
             With that I had my dev experience closer to reality, with implementation deadlines for the website, and I learned a lot while coding.
         </p>
         <p className="styles.paragraph">
-            
+            And it was while I was at PET that I decided to look for an internship in web development. I found a job at Alura for the Scuba Team and realized that it combined two passions of mine: programming and education. To my happiness, I was chosen to be part of the team.
+        </p>
+        <p className="styles.paragraph">
+            Since then, it's been just learning after learning. Alura is a school not only for its students, but also for its employees. Today I am very happy to have the opportunity to bring this rich and charming content to you. Hope you learn a lot!
         </p>
 
     </PostModel>
