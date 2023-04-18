@@ -1,6 +1,6 @@
 import styles from "./Aboutme.module.css";
 import PostModel from "../../components/PostModel";
-import photoCover from "../../assets/sobre_mim_capa.png';
+import photoCover from "assets/sobre_mim_foto.png"
 import photoAboutMe from "../../assets/sobre_mim_foto.png";
 
 export default function AboutMe() {
