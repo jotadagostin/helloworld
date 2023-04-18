@@ -22,7 +22,7 @@ export default function NotFound() {
 
                 <div 
                 className={styles.buttonContainer}
-                onClick={() => navegar(-1)}
+                onClick={() => navegation(-1)}
                 >
                     <MainButton size="lg">
                         Back
